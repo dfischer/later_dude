@@ -22,7 +22,7 @@ To use the gem version, put the following gem requirement in your environment.rb
 
 Or with Rails 3, add the gem requirement to your Gemfile:
 
-    gem 'later_dude', '>= 0.3.1' # 0.3.0 was broken!
+    gem 'later_dude', '>= 0.3.3'
 
 To install it as a plugin, fire up your terminal, go to your Rails app and type:
 
